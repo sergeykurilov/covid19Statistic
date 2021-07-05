@@ -1,0 +1,21 @@
+.container {
+  max-width: 85%;
+  margin: auto;
+}
+
+.header-blocks {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 52px;
+  line-height: 84px;
+  color: #000000;
+}
