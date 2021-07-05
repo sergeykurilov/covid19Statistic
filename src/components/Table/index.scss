@@ -120,6 +120,15 @@ html, body {
 }
 
 
+.modal-block {
+  display: flex;
+  align-items: center;
+}
+
+.modal-block>img {
+  padding-right: 15px;
+}
+
 h2.modal-country {
   font-family: Roboto;
   font-style: normal;
